@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gupy_itf.github.io/static/css/main.b3aae1c7.css",
+    "main.js": "/gupy_itf.github.io/static/js/main.0ef35c8f.js",
+    "index.html": "/gupy_itf.github.io/index.html",
+    "main.b3aae1c7.css.map": "/gupy_itf.github.io/static/css/main.b3aae1c7.css.map",
+    "main.0ef35c8f.js.map": "/gupy_itf.github.io/static/js/main.0ef35c8f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3aae1c7.css",
+    "static/js/main.0ef35c8f.js"
+  ]
+}
